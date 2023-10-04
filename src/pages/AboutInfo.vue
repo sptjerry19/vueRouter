@@ -17,7 +17,7 @@ export default {
     };
   },
   created() {
-    fetch("http://localhost:3000/posts/" + this.$route.params.id)
+    fetch("http://localhost:3000/foods/" + this.$route.params.id)
       .then((response) => response.json())
       .then((data) => (this.about = data))
       .then(() => console.log(this.about));

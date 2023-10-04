@@ -1,31 +1,48 @@
 {
-  "posts": [
+  "foods": [
     {
       "id": 1,
-      "title": "post1",
-      "author": "1"
+      "title": "food1",
+      "author": "son tung mtp",
+      "src": "https://graphicsfamily.com/wp-content/uploads/edd/2021/06/Editable-Photoshop-Food-Logo-Design-PNG-Transparent-1024x1024.png"
     },
     {
       "id": 2,
-      "title": "post2",
-      "author": "2"
+      "title": "food2",
+      "author": "son tung mtp",
+      "src": "https://static.vecteezy.com/system/resources/previews/021/945/405/non_2x/food-logo-with-chef-illustration-free-vector.jpg"
     },
     {
       "id": 3,
-      "title": "post3",
-      "author": "3"
+      "title": "food3",
+      "author": "son tung mtp",
+      "src": "https://graphicsfamily.com/wp-content/uploads/edd/2021/06/Editable-Photoshop-Food-Logo-Design-PNG-Transparent-1024x1024.png"
     },
     {
       "id": 4,
-      "title": "post4",
-      "author": "4"
+      "title": "food4",
+      "author": "son tung mtp",
+      "src": "https://static.vecteezy.com/system/resources/previews/021/945/405/non_2x/food-logo-with-chef-illustration-free-vector.jpg"
     }
   ],
-  "comments": [
+  "musics": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "some comment",
+      "singer": "son tung mtp",
+      "image": ""
+    },
+    {
+      "name": "con mua ngang qua",
+      "singer": "son tùng",
+      "image": {},
+      "id": 2
+    },
+    {
+      "name": "con mua ngang qua",
+      "singer": "asgaszvzx",
+      "image": "IMG_1742.jpeg",
+      "id": 3
     }
   ],
   "profile": {

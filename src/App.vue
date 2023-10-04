@@ -1,5 +1,7 @@
 <template>
-  <NavBar />
+  <div class="fixed top-0 flex w-full justify-center h-16 text-lg items-center">
+    <NavBar />
+  </div>
   <router-view />
 </template>
 
@@ -20,6 +22,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
