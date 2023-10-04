@@ -10,6 +10,11 @@ yarn install
 yarn serve
 ```
 
+### run db.json for development
+```
+json-server --watch db.json
+```
+
 ### Compiles and minifies for production
 ```
 yarn build
